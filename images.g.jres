@@ -1,0 +1,22 @@
+{
+    "image1": {
+        "data": "hwQKAAwAAAAAAAAAAAAAAIAIAIgIAAAAgIiIj4IAAACACID/iAgAAAAAgIj4CAAAAACAiIgIAACACID/iAgAAICIiI+CAAAAgAgAiAgAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "carminitas"
+    },
+    "image2": {
+        "data": "hwQKAAwAAAAAAAAAAAAAAHAHAHcHAAAAcHd3f3cAAABwB3D/dwcAAAAAcHf3BwAAAABwd3cHAABwB3D/dwcAAHB3d393AAAAcAcAdwcAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "gatoalien"
+    },
+    "image3": {
+        "data": "hwQYABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8P8AAAAAAAAAAAAA//IPAAAAAAAAAAAALyL/CwAAAAAAAAAPnyLyDwAAAAAAAAD/nyki8gAAAAAAAAD/nyki8gAAAAAAAAAPnyLyDwAAAAAAAAAALyL/CwAAAAAAAAAA//IPAAAAAAAAAAAA8P8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "player"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
